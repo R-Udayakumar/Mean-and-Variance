@@ -1,6 +1,8 @@
-#  Mean and variance of a discrete  distribution
-
-
+# EX-01   Mean and variance of a discrete  distribution
+```
+Name : Udayakumar R
+Reg no: 212222230163
+```
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
